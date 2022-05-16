@@ -10,9 +10,9 @@
 
 **Fonctionnalités :**
 
-* Un Channel public,* 
-* Un système de name,*
-* Un Channel privés pour les messages entre deux utilisateurs.*
+*Un Channel public,* 
+*Un système de name,*
+*Un Channel privés pour les messages entre deux utilisateurs.*
 
 ---
 
@@ -30,7 +30,8 @@ Installer la dernière version de npm si ce n'est pas déjà fait :
     npm install npm@latest -g
     ```
 2. *Mettre en place* le git clone
-   ```git clone https://github.com/TheRyshun/SioTchat.git
+   ```
+   git clone https://github.com/TheRyshun/SioTchat.git
    ```
 3. *Paramétrer* l'informations du port dans server.js
     ```
@@ -66,7 +67,7 @@ Installer la dernière version de npm si ce n'est pas déjà fait :
 
 ### 🌐 **Langages de programmation**
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)
 |---|---|---|---|
 
 ---
